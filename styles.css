@@ -1,1 +1,17 @@
-/* your code */
+table{
+	width: 600px;
+	text-align: left;
+	border: 2px solid silver;
+	border-radius: 15px;
+	font-family: 
+}
+
+thead{
+	background-color: blue;
+	color: white;
+	font-size: 
+}
+
+.greyrow{
+	background-color: lightgray;
+}
